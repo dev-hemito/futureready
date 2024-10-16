@@ -248,7 +248,7 @@
                     <div class="items">
                         <div class="cause__item text-center">
                             <div class="cause__image image">
-                                <img src="assets/images/future/mentors/2.webp" alt="image">
+                                <img src="assets/images/future/mentors/balasai.jpg" alt="image">
 
                             </div>
                             <div class="cause__content">
