@@ -167,7 +167,7 @@
                             <img src="assets/images/future/icons/school.png" alt="icon">
                         </div>
                         <div class="content">
-                            <h3><span class="count">1,000</span>+</h3>
+                            <h3><span class="count">500</span>+</h3>
                             <span>Universities, Colleges & Schools</span>
                         </div>
                     </div>
@@ -176,7 +176,7 @@
                             <img src="assets/images/future/icons/teacher.png" alt="icon">
                         </div>
                         <div class="content">
-                            <h3><span class="count">5,000</span>+</h3>
+                            <h3><span class="count">3,500</span>+</h3>
                             <span>Teachers & Counsellors</span>
                         </div>
                     </div>
