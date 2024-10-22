@@ -320,7 +320,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="items">
+<!--                     <div class="items">
                         <div class="cause__item text-center">
                             <div class="cause__image image">
                                 <img src="assets/images/future/mentors/demo.webp" alt="image">
@@ -336,7 +336,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
                 <div class="text-center mt-4">
