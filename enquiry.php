@@ -12,7 +12,7 @@
 
     <main>
         <!-- Banner area start here -->
-        <section class="banner-area pt-160 pb-160">
+        <section class="banner-area pt-160 pb-160" id="register">
             <div class="banner__left-shape wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
                 <img class="shape-hand__animation" src="assets/images/shape/hero-shape2.png" alt="shape">
             </div>
@@ -24,7 +24,7 @@
             </div>
             <div class="container">
                 <div class="">
-                    <form action="#" id="register">
+                    <form action="#" >
                         <div class="row">
                             <div class="col-12 col-md-6" id="contact">
                                 <div class="banner__content">
