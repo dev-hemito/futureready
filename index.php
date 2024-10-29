@@ -484,7 +484,7 @@
                     <div class="item">
                         <div class="blog__item">
                             <div class="image">
-                                <img src="assets/images/future/college/3.webp" alt="image">
+                                <img src="assets/images/future/college/avishkara.png" alt="image">
 
                             </div>
                             <div class="blog__content pt-4">
