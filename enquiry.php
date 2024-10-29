@@ -38,14 +38,7 @@
                                         <label for="phone">Your Phone*</label>
                                         <input class="form-control" id="phone" type="text" placeholder="Your Phone Number">
                                     </div>
-                                    <div class="col-6">
-                                        <label for="subject">Join as*</label>
-                                        <select name="#" id="subject" class="form-control">
-                                            <option>Mentor</option>
-                                            <option>College/University</option>
-                                            <option>Student/Parent</option>
-                                        </select> 
-                                    </div>
+                                    
                                 </div>
                                 
                                 <div class="text-area">
