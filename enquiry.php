@@ -42,11 +42,7 @@
                                     <label for="phone">Your Phone*</label>
                                     <input class="form-control" id="phone" type="text" placeholder="Your Phone Number">
                                 </div>
-                            </div>
-
-                        </div>
-
-                        <div class="text-area">
+                                <div class="text-area">
                             <label for="massage">Your Review*</label>
                             <textarea id="massage" class="form-control" placeholder="Write Message"></textarea>
                         </div>
@@ -59,6 +55,11 @@
                                 </span>
                             </a>
                         </div>
+                            </div>
+
+                        </div>
+
+                       
                     </form>
                 </div>
             </div>
