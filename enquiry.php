@@ -28,19 +28,19 @@
                                 <div class="row">
                                     <div class="col-6">
                                         <label for="name">Your Name*</label>
-                                        <input id="name" type="text" placeholder="Your Name">
+                                        <input class="form-control" id="name" type="text" placeholder="Your Name">
                                     </div>
                                     <div class="col-6">
                                         <label for="email">Your Email*</label>
-                                        <input id="email" type="email" placeholder="Your Email">
+                                        <input class="form-control" id="email" type="email" placeholder="Your Email">
                                     </div>
                                     <div class="col-6">
                                         <label for="phone">Your Phone*</label>
-                                        <input id="phone" type="text" placeholder="Your Phone Number">
+                                        <input class="form-control" id="phone" type="text" placeholder="Your Phone Number">
                                     </div>
                                     <div class="col-6">
                                         <label for="subject">Join as*</label>
-                                        <select name="#" id="subject">
+                                        <select name="#" id="subject" class="form-control">
                                             <option>Mentor</option>
                                             <option>College/University</option>
                                             <option>Student/Parent</option>
@@ -50,7 +50,7 @@
                                 
                                 <div class="text-area">
                                     <label for="massage">Your Review*</label>
-                                    <textarea id="massage" placeholder="Write Message"></textarea>
+                                    <textarea id="massage" class="form-control" placeholder="Write Message"></textarea>
                                 </div>
                                 <div class="btn-two">
                                     <span class="btn-circle">
