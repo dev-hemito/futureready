@@ -36,11 +36,7 @@
                     <div class="btn-one mt-45 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                         <span class="btn-circle">
                         </span>
-                        <a href="#!" class="btn-inner">
-                            <span class="btn-text">
-                                UPCOMING EVENTS
-                            </span>
-                        </a>
+                       
                     </div>
                 </div>
                             </div>
