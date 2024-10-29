@@ -45,10 +45,10 @@
                                     <label for="massage">Your Review*</label>
                                     <textarea id="massage" class="form-control" placeholder="Write Message"></textarea>
                                 </div>
-                                <div class="btn-two">
+                                <div class="btn-two mt-3">
                                     <span class="btn-circle">
                                     </span>
-                                    <a href="#" class="btn-inner mt-3">
+                                    <a href="#" class="btn-inner ">
                                         <span class="btn-text">
                                            Join Now
                                         </span>
