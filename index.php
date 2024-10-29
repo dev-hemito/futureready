@@ -320,7 +320,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="items">
+<!--                     <div class="items">
                         <div class="cause__item text-center">
                             <div class="cause__image image">
                                 <img src="assets/images/future/mentors/demo.webp" alt="image">
@@ -336,7 +336,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
                 <div class="text-center mt-4">
@@ -368,8 +368,11 @@
                             </div>
                             <div class="project__content">
                                 <div class="con">
-                                    <h4><a href="#!" class="text-white">Institution Improvement - University / College /
-                                            Schools</a></h4>
+                                    <h4><a href="#!" class="text-white">Institution Improvement <br>
+- Universities <br>
+- Colleges <br>
+- Schools
+</a></h4>
                                 </div>
                                 <a href="#!" class="next-btn"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
@@ -396,7 +399,8 @@
                             </div>
                             <div class="project__content">
                                 <div class="con">
-                                    <h4><a href="#!" class="text-white">Student Empowerment Programs
+                                    <h4><a href="#!" class="text-white">Student Empowerment Programs based on talent analysis
+
                                         </a></h4>
                                 </div>
                                 <a href="#!" class="next-btn"><i class="fa-regular fa-arrow-right"></i></a>
