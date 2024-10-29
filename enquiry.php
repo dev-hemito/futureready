@@ -26,10 +26,10 @@
                 <div class="">
                     <form action="#">
                         <div class="row">
-                            <div class="col">
+                            <div class="col-12 col-md-6">
                                 <img src="assets/images/future/Logo.webp" alt="logo">
                             </div>
-                            <div class="col order-sm-1">
+                            <div class="col-12 col-md-6 order-sm-1">
                                 <div class="col-12">
                                     <label for="name">Your Name*</label>
                                     <input class="form-control" id="name" type="text" placeholder="Your Name">
