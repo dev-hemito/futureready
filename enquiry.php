@@ -20,7 +20,7 @@
                 <img src="assets/images/shape/hero-shape.png" alt="shape">
             </div>
             <div class="banner__hero">
-                <img src="assets/images/future/hero.webp" alt="image">
+               
             </div>
             <div class="container">
                 <div class="">
