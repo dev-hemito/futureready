@@ -48,7 +48,7 @@
                                 <div class="btn-two">
                                     <span class="btn-circle">
                                     </span>
-                                    <a href="#" class="btn-inner">
+                                    <a href="#" class="btn-inner mt-3">
                                         <span class="btn-text">
                                            Join Now
                                         </span>
