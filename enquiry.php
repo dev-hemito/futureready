@@ -17,7 +17,7 @@
                 <img class="shape-hand__animation" src="assets/images/shape/hero-shape2.png" alt="shape">
             </div>
             <div class="banner__right-shape">
-                <img src="assets/images/shape/hero-shape.png" alt="shape">
+               
             </div>
             <div class="banner__hero">
                
