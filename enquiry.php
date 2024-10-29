@@ -23,7 +23,7 @@
                 <img src="assets/images/future/hero.webp" alt="image">
             </div>
             <div class="container">
-                <div class="banner__content">
+                <div class="">
                     <form action="#">
                         <div class="row">
                             <div class="col">
