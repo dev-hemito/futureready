@@ -8,7 +8,7 @@
 </head>
 
 <body>
-
+<?php include('header.php'); ?>
 
     <main>
         <!-- Banner area start here -->
@@ -27,7 +27,22 @@
                     <form action="#">
                         <div class="row">
                             <div class="col-12 col-md-6">
-                                <img src="assets/images/future/Logo.webp" alt="logo">
+                            <div class="banner__content">
+                    <h3 class="mb-15 wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">Empowering Future
+                        Leaders</h3>
+                    <h1 class="wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
+                        Transforming Young Talents to Be Future Ready
+                    </h1>
+                    <div class="btn-one mt-45 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
+                        <span class="btn-circle">
+                        </span>
+                        <a href="#!" class="btn-inner">
+                            <span class="btn-text">
+                                UPCOMING EVENTS
+                            </span>
+                        </a>
+                    </div>
+                </div>
                             </div>
                             <div class="col-12 col-md-6 order-sm-1">
                                 <div class="col-12">
