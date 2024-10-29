@@ -13,7 +13,7 @@
     <main>
         <!-- Banner area start here -->
         <section class="banner-area pt-160 pb-160" id="register">
-            <div class="banner__left-shape wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
+            <div class="banner__left-shape wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms" id="contact">
                 <img class="shape-hand__animation" src="assets/images/shape/hero-shape2.png" alt="shape">
             </div>
             <div class="banner__right-shape">
@@ -26,7 +26,7 @@
                 <div class="">
                     <form action="#" >
                         <div class="row">
-                            <div class="col-12 col-md-6" id="contact">
+                            <div class="col-12 col-md-6">
                                 <div class="banner__content">
                                     <h3 class="mb-15 wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
                                         Empowering Future
@@ -459,7 +459,7 @@
                 </div>
             </div>
         </section>
-        <section class="blog-area pb-120">
+        <section class="blog-area pb-120"  id="partners">
             <div class="container">
                 <div class="section-header mb-60 text-center">
                     <h5 class="wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
