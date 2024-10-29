@@ -24,20 +24,44 @@
             </div>
             <div class="container">
                 <div class="banner__content">
-                    <h3 class="mb-15 wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">Empowering Future
-                        Leaders</h3>
-                    <h1 class="wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                        Transforming Young Talents to Be Future Ready
-                    </h1>
-                    <div class="btn-one mt-45 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
-                        <span class="btn-circle">
-                        </span>
-                        <a href="#!" class="btn-inner">
-                            <span class="btn-text">
-                                UPCOMING EVENTS
-                            </span>
-                        </a>
-                    </div>
+                <form action="#">
+                                <div class="row">
+                                    <div class="col-6">
+                                        <label for="name">Your Name*</label>
+                                        <input id="name" type="text" placeholder="Your Name">
+                                    </div>
+                                    <div class="col-6">
+                                        <label for="email">Your Email*</label>
+                                        <input id="email" type="email" placeholder="Your Email">
+                                    </div>
+                                    <div class="col-6">
+                                        <label for="phone">Your Phone*</label>
+                                        <input id="phone" type="text" placeholder="Your Phone Number">
+                                    </div>
+                                    <div class="col-6">
+                                        <label for="subject">Join as*</label>
+                                        <select name="#" id="subject">
+                                            <option>Mentor</option>
+                                            <option>College/University</option>
+                                            <option>Student/Parent</option>
+                                        </select> 
+                                    </div>
+                                </div>
+                                
+                                <div class="text-area">
+                                    <label for="massage">Your Review*</label>
+                                    <textarea id="massage" placeholder="Write Message"></textarea>
+                                </div>
+                                <div class="btn-two">
+                                    <span class="btn-circle">
+                                    </span>
+                                    <a href="#" class="btn-inner">
+                                        <span class="btn-text">
+                                           Join Now
+                                        </span>
+                                    </a>
+                                </div>
+                            </form>
                 </div>
             </div>
         </section>
