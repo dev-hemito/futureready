@@ -24,38 +24,42 @@
             </div>
             <div class="container">
                 <div class="banner__content">
-                <form action="#">
-                                <div class="row">
+                    <form action="#">
+                        <div class="row">
+                            <div class="col">
                                 <img src="assets/images/future/Logo.webp" alt="logo">
-                                    <div class="col-6">
-                                        <label for="name">Your Name*</label>
-                                        <input class="form-control" id="name" type="text" placeholder="Your Name">
-                                    </div>
-                                    <div class="col-6">
-                                        <label for="email">Your Email*</label>
-                                        <input class="form-control" id="email" type="email" placeholder="Your Email">
-                                    </div>
-                                    <div class="col-6">
-                                        <label for="phone">Your Phone*</label>
-                                        <input class="form-control" id="phone" type="text" placeholder="Your Phone Number">
-                                    </div>
-                                    
+                            </div>
+                            <div class="col order-sm-1">
+                                <div class="col-6">
+                                    <label for="name">Your Name*</label>
+                                    <input class="form-control" id="name" type="text" placeholder="Your Name">
                                 </div>
-                                
-                                <div class="text-area">
-                                    <label for="massage">Your Review*</label>
-                                    <textarea id="massage" class="form-control" placeholder="Write Message"></textarea>
+                                <div class="col-6">
+                                    <label for="email">Your Email*</label>
+                                    <input class="form-control" id="email" type="email" placeholder="Your Email">
                                 </div>
-                                <div class="btn-two mt-3">
-                                    <span class="btn-circle">
-                                    </span>
-                                    <a href="#" class="btn-inner ">
-                                        <span class="btn-text">
-                                           Join Now
-                                        </span>
-                                    </a>
+                                <div class="col-6">
+                                    <label for="phone">Your Phone*</label>
+                                    <input class="form-control" id="phone" type="text" placeholder="Your Phone Number">
                                 </div>
-                            </form>
+                            </div>
+
+                        </div>
+
+                        <div class="text-area">
+                            <label for="massage">Your Review*</label>
+                            <textarea id="massage" class="form-control" placeholder="Write Message"></textarea>
+                        </div>
+                        <div class="btn-two mt-3">
+                            <span class="btn-circle">
+                            </span>
+                            <a href="#" class="btn-inner ">
+                                <span class="btn-text">
+                                    Join Now
+                                </span>
+                            </a>
+                        </div>
+                    </form>
                 </div>
             </div>
         </section>
@@ -336,7 +340,7 @@
                             </div>
                         </div>
                     </div>
-<!--                     <div class="items">
+                    <!--                     <div class="items">
                         <div class="cause__item text-center">
                             <div class="cause__image image">
                                 <img src="assets/images/future/mentors/demo.webp" alt="image">
@@ -385,10 +389,10 @@
                             <div class="project__content">
                                 <div class="con">
                                     <h4><a href="#!" class="text-white">Institution Improvement <br>
-- Universities <br>
-- Colleges <br>
-- Schools
-</a></h4>
+                                            - Universities <br>
+                                            - Colleges <br>
+                                            - Schools
+                                        </a></h4>
                                 </div>
                                 <a href="#!" class="next-btn"><i class="fa-regular fa-arrow-right"></i></a>
                             </div>
@@ -415,7 +419,8 @@
                             </div>
                             <div class="project__content">
                                 <div class="con">
-                                    <h4><a href="#!" class="text-white">Student Empowerment Programs based on talent analysis
+                                    <h4><a href="#!" class="text-white">Student Empowerment Programs based on talent
+                                            analysis
 
                                         </a></h4>
                                 </div>
@@ -598,7 +603,7 @@
                             <h2 class="text-white wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">Join
                                 Our Future Making Journey Today</h2>
                         </div>
-                       
+
 
 
                         <div class="donate__now mt-30 wow fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
