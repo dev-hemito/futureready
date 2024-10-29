@@ -26,6 +26,7 @@
                 <div class="banner__content">
                 <form action="#">
                                 <div class="row">
+                                <img src="assets/images/future/Logo.webp" alt="logo">
                                     <div class="col-6">
                                         <label for="name">Your Name*</label>
                                         <input class="form-control" id="name" type="text" placeholder="Your Name">
