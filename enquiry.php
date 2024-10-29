@@ -30,15 +30,15 @@
                                 <img src="assets/images/future/Logo.webp" alt="logo">
                             </div>
                             <div class="col order-sm-1">
-                                <div class="col-6">
+                                <div class="col-12">
                                     <label for="name">Your Name*</label>
                                     <input class="form-control" id="name" type="text" placeholder="Your Name">
                                 </div>
-                                <div class="col-6">
+                                <div class="col-12">
                                     <label for="email">Your Email*</label>
                                     <input class="form-control" id="email" type="email" placeholder="Your Email">
                                 </div>
-                                <div class="col-6">
+                                <div class="col-12">
                                     <label for="phone">Your Phone*</label>
                                     <input class="form-control" id="phone" type="text" placeholder="Your Phone Number">
                                 </div>
