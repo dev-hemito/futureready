@@ -52,19 +52,19 @@
             <div class="main-menu">
                 <nav>
                     <ul>
-                        <li><a href="/enquiry">Home</a></li>
-                        <li><a href="/enquiry#about">About</a></li>
-                        <li><a href="/enquiry#mentors">Mentors</a></li>
-                        <li><a href="/enquiry#partners">Partners</a></li>
-                        <li><a href="/enquiry#events">Events</a></li>
-                        <li><a href="/enquiry#contact">Contact</a></li>
+                        <li><a href="./">Home</a></li>
+                        <li><a href="about">About</a></li>
+                        <li><a href="mentors">Mentors</a></li>
+                        <li><a href="partners">Partners</a></li>
+                        <li><a href="events">Events</a></li>
+                        <li><a href="contact">Contact</a></li>
                     </ul>
                 </nav>
             </div>
             <div class="btn-two d-none d-lg-inline-block">
                 <span class=" btn-circle">
                 </span>
-                <a href="/enquiry#register" class="btn-inner">
+                <a href="#!" class="btn-inner">
                     <span class="btn-text">
                         Register NOW
                     </span>

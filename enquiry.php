@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<?php include('header.php'); ?>
+    <?php include('enquiryheader.php'); ?>
 
     <main>
         <!-- Banner area start here -->
@@ -17,28 +17,30 @@
                 <img class="shape-hand__animation" src="assets/images/shape/hero-shape2.png" alt="shape">
             </div>
             <div class="banner__right-shape">
-               
+
             </div>
             <div class="banner__hero">
-               
+
             </div>
             <div class="container">
                 <div class="">
-                    <form action="#">
+                    <form action="#" id="register">
                         <div class="row">
-                            <div class="col-12 col-md-6">
-                            <div class="banner__content">
-                    <h3 class="mb-15 wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">Empowering Future
-                        Leaders</h3>
-                    <h1 class="wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                        Transforming Young Talents to Be Future Ready
-                    </h1>
-                    <div class="btn-one mt-45 wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
-                        <span class="btn-circle">
-                        </span>
-                       
-                    </div>
-                </div>
+                            <div class="col-12 col-md-6" id="contact">
+                                <div class="banner__content">
+                                    <h3 class="mb-15 wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
+                                        Empowering Future
+                                        Leaders</h3>
+                                    <h1 class="wow fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
+                                        Transforming Young Talents to Be Future Ready
+                                    </h1>
+                                    <div class="btn-one mt-45 wow fadeInUp" data-wow-delay="400ms"
+                                        data-wow-duration="1500ms">
+                                        <span class="btn-circle">
+                                        </span>
+
+                                    </div>
+                                </div>
                             </div>
                             <div class="col-12 col-md-6 order-sm-1">
                                 <div class="col-12">
@@ -54,29 +56,29 @@
                                     <input class="form-control" id="phone" type="text" placeholder="Your Phone Number">
                                 </div>
                                 <div class="text-area">
-                            <label for="massage">Your Review*</label>
-                            <textarea id="massage" class="form-control" placeholder="Write Message"></textarea>
-                        </div>
-                        <div class="btn-two mt-3">
-                            <span class="btn-circle">
-                            </span>
-                            <a href="#" class="btn-inner ">
-                                <span class="btn-text">
-                                    Join Now
-                                </span>
-                            </a>
-                        </div>
+                                    <label for="massage">Your Review*</label>
+                                    <textarea id="massage" class="form-control" placeholder="Write Message"></textarea>
+                                </div>
+                                <div class="btn-two mt-3">
+                                    <span class="btn-circle">
+                                    </span>
+                                    <a href="#" class="btn-inner ">
+                                        <span class="btn-text">
+                                            Join Now
+                                        </span>
+                                    </a>
+                                </div>
                             </div>
 
                         </div>
 
-                       
+
                     </form>
                 </div>
             </div>
         </section>
 
-        <section class="cause-area pb-120 pt-120">
+        <section class="cause-area pb-120 pt-120" >
             <div class="container">
                 <div class="section-header mb-60 text-center">
                     <h5 class="wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
@@ -119,7 +121,7 @@
         </section>
 
 
-        <section class="about-two-area pt-120 pb-120 overflow-hidden">
+        <section class="about-two-area pt-120 pb-120 overflow-hidden" id="about">
             <div class="about-two__wrp">
                 <div class="container">
                     <div class="row g-4 align-items-center">
@@ -227,7 +229,7 @@
         </section>
 
 
-        <section class="cause-area pb-120">
+        <section class="cause-area pb-120" id="mentors">
             <div class="container">
                 <div class="section-header mb-60 text-center">
                     <h5 class="wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
@@ -382,7 +384,7 @@
             </div>
         </section>
 
-        <section class="project-area  pb-120">
+        <section class="project-area  pb-120" id="events">
             <div class="container">
                 <div class="section-header mb-60 text-center">
                     <h5 class="wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1500ms">
